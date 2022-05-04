@@ -1,0 +1,15 @@
+logs
+target
+/.bsp
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+app/.DS_Store
+.DS_Store
+bin/app/
+bin/beverly-api-*
+Dockerfile
+logs/
